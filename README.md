@@ -1,5 +1,15 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# App links
+
+## Automated deployment
+[Link to app that was created using automated deployment](https://d1cw0fkrv9p4ak.cloudfront.net/)
+
+## Manual deployment
+[Link to app that was created using manual deployment](https://dqm78s7ig7jbt.cloudfront.net/)
+
+[Direct link to static S3 bucket content](http://fe-app-bucket.s3-website-eu-west-1.amazonaws.com/) (I specially did not remove it from bucket policy)
+
 ## Available Scripts
 
 In the project directory, you can run:  
