@@ -8,7 +8,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Manual deployment
 [Link to app that was created using manual deployment](https://dqm78s7ig7jbt.cloudfront.net/)
 
-[Direct link to static S3 bucket content](http://fe-app-bucket.s3-website-eu-west-1.amazonaws.com/) (I specially did not remove it from bucket policy)
+[Direct link to static S3 bucket content](http://fe-app-bucket.s3-website-eu-west-1.amazonaws.com/)
 
 ## Available Scripts
 
