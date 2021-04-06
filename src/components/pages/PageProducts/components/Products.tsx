@@ -36,11 +36,7 @@ export default function Products() {
   const [products, setProducts] = useState<Product[]>([]);
 
   useEffect(() => {
-    axios.get(`${API_PATHS.products}/products`, {
-      headers: {
-        "Access-Control-Allow-Origin": "*"
-      }
-    })
+    axios.get(`${API_PATHS.products}/products`)
       .then(res => {
         console.log("RES: ", res);
         setProducts(res.data);
